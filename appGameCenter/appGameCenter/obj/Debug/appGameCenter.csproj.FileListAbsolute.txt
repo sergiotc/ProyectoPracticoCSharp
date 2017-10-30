@@ -1,0 +1,2 @@
+C:\Users\FTI\Documents\curso de desarrollo de videojuegos\ProyectoPracticoCSharp\appGameCenter\appGameCenter\obj\Debug\appGameCenter.csprojResolveAssemblyReference.cache
+C:\Users\FTI\Documents\curso de desarrollo de videojuegos\ProyectoPracticoCSharp\appGameCenter\appGameCenter\obj\Debug\appGameCenter.csproj.CoreCompileInputs.cache
